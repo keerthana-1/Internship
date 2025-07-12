@@ -1,4 +1,4 @@
-# Internship_deloitte
+# Internship
 
 ## Employee Management System
 
